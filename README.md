@@ -11,11 +11,11 @@ This is a simple command-line calculator application written in Python. It allow
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ntokozo-magaba-01.git
+   git clone https://github.com/your-username/Ntokozo-Paul-01.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ntokozo-magaba-01
+   cd Ntokozo-Paul-01
    ```
 3. Run the Python script:
    ```sh
